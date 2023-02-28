@@ -6,7 +6,7 @@ I am a very passionate individual who is willing to
 pursue computer science and learn new technologies
 while actively involve in the industry to gain experience
 and become a professional. I believe in inspiring others
-through my actions and living my life to the fullest
+through my actions and living my life to the fullest.
 
 - 📫  Reach me on sandalu.18@cse.mrt.ac.lk
 
@@ -48,13 +48,10 @@ through my actions and living my life to the fullest
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   
  </p> 
   <p align="left"> 
    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-   
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </p>
 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank">
@@ -70,17 +67,6 @@ through my actions and living my life to the fullest
 
 <br />
 <br />
-
----
-
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musabmahmoodh&show_icons=true&locale=en&layout=compact" alt="musabmahmoodh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musabmahmoodh&show_icons=true&locale=en" alt="musabmahmoodh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musabmahmoodh&" alt="musabmahmoodh" /></p>
-
-
 
 ---
 
