@@ -1,7 +1,11 @@
 
 ### Hi there, I'm Sandalu Karunasena 👋
 
-## I'm a student, Developer, and Teacher!!
+## I'm a student, Developer, and Teacher!! I am a very passionate individual who is willing to
+pursue computer science and learn new technologies
+while actively involve in the industry to gain experience
+and become a professional. I believe in inspiring others
+through my actions and living my life to the fullest
 
 ### Connect with me:
 
